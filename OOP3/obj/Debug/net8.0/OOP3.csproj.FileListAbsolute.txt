@@ -1,0 +1,15 @@
+D:\YGYK\KampIntro\OOP3\bin\Debug\net8.0\OOP3.exe
+D:\YGYK\KampIntro\OOP3\bin\Debug\net8.0\OOP3.deps.json
+D:\YGYK\KampIntro\OOP3\bin\Debug\net8.0\OOP3.runtimeconfig.json
+D:\YGYK\KampIntro\OOP3\bin\Debug\net8.0\OOP3.dll
+D:\YGYK\KampIntro\OOP3\bin\Debug\net8.0\OOP3.pdb
+D:\YGYK\KampIntro\OOP3\obj\Debug\net8.0\OOP3.GeneratedMSBuildEditorConfig.editorconfig
+D:\YGYK\KampIntro\OOP3\obj\Debug\net8.0\OOP3.AssemblyInfoInputs.cache
+D:\YGYK\KampIntro\OOP3\obj\Debug\net8.0\OOP3.AssemblyInfo.cs
+D:\YGYK\KampIntro\OOP3\obj\Debug\net8.0\OOP3.csproj.CoreCompileInputs.cache
+D:\YGYK\KampIntro\OOP3\obj\Debug\net8.0\OOP3.sourcelink.json
+D:\YGYK\KampIntro\OOP3\obj\Debug\net8.0\OOP3.dll
+D:\YGYK\KampIntro\OOP3\obj\Debug\net8.0\refint\OOP3.dll
+D:\YGYK\KampIntro\OOP3\obj\Debug\net8.0\OOP3.pdb
+D:\YGYK\KampIntro\OOP3\obj\Debug\net8.0\OOP3.genruntimeconfig.cache
+D:\YGYK\KampIntro\OOP3\obj\Debug\net8.0\ref\OOP3.dll

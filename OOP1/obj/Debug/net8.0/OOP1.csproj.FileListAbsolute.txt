@@ -1,0 +1,15 @@
+D:\YGYK\KampIntro\OOP1\bin\Debug\net8.0\OOP1.exe
+D:\YGYK\KampIntro\OOP1\bin\Debug\net8.0\OOP1.deps.json
+D:\YGYK\KampIntro\OOP1\bin\Debug\net8.0\OOP1.runtimeconfig.json
+D:\YGYK\KampIntro\OOP1\bin\Debug\net8.0\OOP1.dll
+D:\YGYK\KampIntro\OOP1\bin\Debug\net8.0\OOP1.pdb
+D:\YGYK\KampIntro\OOP1\obj\Debug\net8.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\YGYK\KampIntro\OOP1\obj\Debug\net8.0\OOP1.AssemblyInfoInputs.cache
+D:\YGYK\KampIntro\OOP1\obj\Debug\net8.0\OOP1.AssemblyInfo.cs
+D:\YGYK\KampIntro\OOP1\obj\Debug\net8.0\OOP1.csproj.CoreCompileInputs.cache
+D:\YGYK\KampIntro\OOP1\obj\Debug\net8.0\OOP1.sourcelink.json
+D:\YGYK\KampIntro\OOP1\obj\Debug\net8.0\OOP1.dll
+D:\YGYK\KampIntro\OOP1\obj\Debug\net8.0\refint\OOP1.dll
+D:\YGYK\KampIntro\OOP1\obj\Debug\net8.0\OOP1.pdb
+D:\YGYK\KampIntro\OOP1\obj\Debug\net8.0\OOP1.genruntimeconfig.cache
+D:\YGYK\KampIntro\OOP1\obj\Debug\net8.0\ref\OOP1.dll
